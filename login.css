@@ -1,0 +1,60 @@
+form {
+  border: .063em solid black;
+  border-radius: 0.2em;
+  width: 25%;
+  heigh: 18em;
+  margin: 10% auto;
+  font-family: sans-serif;
+  overflow: auto;
+}
+
+form h3 {
+  background-color: #101D42;
+  color: #FFF;
+  text-align: center;
+  margin-top: 0;
+  height: 3em;
+  line-height: 3em;
+}
+
+form .middle {
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+  height: 2em;
+  margin-top: .4em;
+}
+
+form p {
+  font-size: .7em;
+  display: inline-block;
+  height: 4em;
+  line-height: 4em;
+  width: 100%;
+  text-align: center;
+  background-color: #E0F2E9;
+  overflow: auto;
+}
+
+form button {
+  font-size: 1em;
+  font-weight: bold;
+  background-color: #4285F4;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: #2364AA;
+}
+
+form a {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+input {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
